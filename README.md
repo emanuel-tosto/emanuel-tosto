@@ -6,7 +6,7 @@
 
 💡 &nbsp;With over 4 years of experience in the IT market i have worked in full-stack development and data science roles, always aiming for the most efficient and portable solutions.\
 ✍️ &nbsp;I continually improve my skills by taking courses on emerging technologies, and in my free time, I work on personal projects as a hobby.\
-🌱 &nbsp;I am very passionate about teamwork and bringing together multiple points of view to create the best possible solution. It is always rewarding to work with a large and diverse team.\
+🌱 &nbsp;I am very passionate about teamwork and bringing together multiple points of view to create the best possible solution. It is always rewarding to work with a large and diverse team.
 ### 🛠 &nbsp;Tech Stack
 
 
